@@ -1,5 +1,7 @@
 # Getting Started
 
+![Alt text](image.png)
+
 - Create Svelete App
   `npm create vite@latest`
   Need to install the following packages:
