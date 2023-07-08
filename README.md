@@ -1,6 +1,8 @@
-# Getting Started
+# RemoveBackGround
 
 ![Alt text](image.png)
+
+# Getting Started
 
 - Create Svelete App
   `npm create vite@latest`
